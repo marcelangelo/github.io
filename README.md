@@ -1,4 +1,4 @@
 # github.io
-First static website deployed (Practice)
+Codecademy's Arts and Crafts project
 
 site url: https://marcelangelo.github.io/github.io/
